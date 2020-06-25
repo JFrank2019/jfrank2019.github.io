@@ -6,27 +6,20 @@
     <description>Recent content in Posts on 木易的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Wed, 24 Jun 2020 15:45:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 14:47:31 +0800</lastBuildDate>
     
 	<atom:link href="https://jfrank2019.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>第二篇博客</title>
-      <link>https://jfrank2019.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Wed, 24 Jun 2020 15:45:51 +0800</pubDate>
-      
-      <guid>https://jfrank2019.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description>这是第二篇测试博客了 第二篇测试博客内容</description>
-    </item>
-    
-    <item>
-      <title>开博大吉</title>
-      <link>https://jfrank2019.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <title>如何用 hugo 搭建个人博客</title>
+      <link>https://jfrank2019.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Wed, 24 Jun 2020 14:47:31 +0800</pubDate>
       
-      <guid>https://jfrank2019.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
-      <description>大家好 我的博客开通了，希望能够写出好文章给大家看。</description>
+      <guid>https://jfrank2019.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>如何用 hugo 搭建个人博客(Windows版) 一、安装 hugo  下载 Hugo   在 Hugo 的 Github 下载 release 版本
+ 解压，将 hugo.exe 放到一个目录下，并将该目录添加到 Path 重启终端，运行 hugo version 查看版本  示例
+二、快速搭建博客  进入 Hugo 官网，点击Quick Start快速开始 从 Step 2 开始抄代码，直到 Step 7  Step 2: Create a New Site hugo new site 项目名称 (建议取成github账号名称.github.io-creator) Step 3: Add a Theme cd 项目名称 git init git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke echo &#39;theme = &amp;quot;ananke&amp;quot;&#39; &amp;gt;&amp;gt; config.</description>
     </item>
     
   </channel>
